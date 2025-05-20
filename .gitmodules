@@ -1,0 +1,3 @@
+[submodule "polar-bear"]
+	path = polar-bear
+	url = git@github.com:sbytex/polar-bear.git
